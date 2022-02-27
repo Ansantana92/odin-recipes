@@ -1,0 +1,62 @@
+*{
+    text-decoration: none;
+}
+body {
+    background-color: #fff;
+}
+.head {
+    margin: 10px auto;
+    padding: 5px 5px;
+    width: 80%;
+    height: 10%;
+    background-color: #fff;
+    box-shadow: 5px 9px 40px rgb(80, 75, 75);
+    border: 2px solid black;
+    text-align: center;
+}
+header h1 {
+    font-size: 35px;
+    text-align: center;
+}
+.menu{
+    margin: 0 auto;
+    height: 300px;
+    background-color:peru;
+    width: 30%;
+    position: relative;
+    box-shadow: 5px 9px 40px rgb(80, 75, 75);
+}
+.menu h2{
+    text-align: center;
+    position: relative;
+    top: 30px;   
+}
+h2{
+    margin-top: 80px;
+}
+.menu a{
+    color:white;
+}
+.menu a:hover{
+    color:red;
+}
+#imagem {
+    height: 350px;
+    margin: 0 auto;
+    border: 2px rgb(160, 158, 158) solid;
+}
+.imgs {
+    height: 350px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#backbtn{
+    color: black;
+    height: 30px;
+}
+.imgs.mac{
+    width: 500px;
+    margin: 0 auto;
+/*     object-fit: contain;
+ */}
